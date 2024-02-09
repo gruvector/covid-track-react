@@ -19,5 +19,11 @@ By the end of this video, you will have a strong understanding of React's workfl
 
 API used: https://covid19.mathdro.id/api
 
+
+
+
+
+
+
 Setup:
 - run ```npm i && npm start```
